@@ -6,7 +6,7 @@ License: WTFPL for code, CC-BY-NC-SA for textures (http://creativecommons.org/li
 Note: rename the extracted folder into 'ut' without the quoatation marks.
 
 This mod includes:
-Magnesium/Aluminium/Platinum Tools- Greatsword, Picel, Waraxe
-New Ultimate Tools- Excalibur, Draxel
-Shadow forge
-Magnesium/Aluminium/Platinum Ore, lump and Bar
+Magnesium/Aluminium/Platinum Tools- Greatsword, Picel, Waraxe.
+New Ultimate Tools- Excalibur, Draxel.
+Shadow forge.
+Magnesium/Aluminium/Platinum Ore, lump and Bar.
